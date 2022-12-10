@@ -1,3 +1,3 @@
 # React signin form
 
-(ÖnizLeme)[""]
+![Önizleme](https://github.com/AdemAkpinar/react-signin-form/blob/master/readme.gif)
